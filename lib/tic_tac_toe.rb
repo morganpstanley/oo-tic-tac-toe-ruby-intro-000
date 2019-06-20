@@ -1,5 +1,5 @@
 class TicTacToe
-  @@@board = Array.new(9, " ")
+  @board = Array.new(9, " ")
 
   WIN_COMBINATIONS = [
   [0, 1, 2],
